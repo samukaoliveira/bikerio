@@ -28,6 +28,16 @@ gem "jbuilder"
 
 gem 'bootstrap', '~> 5.0'
 
+gem 'sass-rails', '>= 5'
+
+gem 'gmaps4rails'
+
+gem 'rest-client'
+
+gem 'httparty'
+
+gem 'openweathermap'
+
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
 
